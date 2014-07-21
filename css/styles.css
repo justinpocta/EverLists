@@ -1,0 +1,15 @@
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+#logo {margin:10px 20px;}
+#newlist {margin:15px 20px;}
+
+body {background-color:rgba(0,0,0,.05);}
+nav {max-width:100% !important;border-bottom:2px solid rgba(0,0,0,.05);}
+nav.grey { background-color: rgba(0,0,0,.05);}
+nav.darkgrey { background-color: rgba(0,0,0,.10)}
+
+/* hider */
+.hider { padding: .5em 1em; text-decoration: none; }
+.effecter {position: relative;  width: 240px;  padding: 1em; letter-spacing: 0; font-size: 1.2em; border: 1px solid #000; background: #eee; color: #333; }
+
